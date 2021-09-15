@@ -1,0 +1,42 @@
+@import "../generic/_generic.fonts.scss";
+@import "../generic/_generic.normalize.scss";
+
+@import "../base/_base.page.scss";
+
+@import "../objects/_objects.layout.scss";
+@import "../objects/_objects.grid.scss";
+
+@import "../helpers/_helpers.helpers.scss";
+@import "../helpers/_helpers.background-colors.scss";
+@import "../helpers/_helpers.paddings_and_margins.scss";
+@import "../helpers/_helpers.fonts.scss";
+@import "../helpers/_helpers.icons.scss";
+@import "../helpers/_helpers.text-color.scss";
+@import "../helpers/_helpers.sizes.scss";
+
+@import "../components/_components.article.scss";
+@import "../components/_components.background-video.scss";
+@import "../components/_components.burger.scss";
+@import "../components/_components.buttons.scss";
+@import "../components/_components.click-circle.scss";
+@import "../components/_components.contacts.scss";
+@import "../components/_components.content-block.scss";
+@import "../components/_components.editor-text.scss";
+@import "../components/_components.important-text.scss";
+@import "../components/_components.intro.scss";
+@import "../components/_components.intro-loading.scss";
+@import "../components/_components.language-nav.scss";
+@import "../components/_components.logo.scss";
+@import "../components/_components.loading.scss";
+@import "../components/_components.main-header.scss";
+@import "../components/_components.main-heading.scss";
+@import "../components/_components.main-nav.scss";
+@import "../components/_components.particles.scss";
+@import "../components/_components.read-more.scss";
+@import "../components/_components.scroll-arrow.scss";
+@import "../components/_components.sly.scss";
+@import "../components/_components.text-blocks.scss";
+@import "../components/_components.text-input-fields.scss";
+@import "../components/_components.bits.scss";
+
+@import "../shame/_shame.scss";
